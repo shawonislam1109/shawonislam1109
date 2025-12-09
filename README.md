@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Banner](./ChatGPT Image Dec 10, 2025, 12_53_56 AM.png)
+![Banner](./Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rabiyul Islam</h1>
 <h3 align="center">Full-Stack JavaScript Developer | React • Next.js • Node.js • NestJS | Bangladesh</h3>
