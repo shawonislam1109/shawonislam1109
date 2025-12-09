@@ -1,4 +1,5 @@
-
+<!-- Banner -->
+![Banner](./banner.png)
 
 <h1 align="center">Hi 👋, I'm Rabiyul Islam</h1>
 <h3 align="center">Full-Stack JavaScript Developer | React • Next.js • Node.js • NestJS | Bangladesh</h3>
@@ -23,16 +24,25 @@
 
 ## 🔗 Connect With Me  
 <p align="left">
+
 <a href="https://www.linkedin.com/in/rabiyul-islam/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:shawonislam1109@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/shawonislam1109" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-171515?logo=github&logoColor=white" />
 </a>
+
+<a href="https://portfolio-rabiyul-islam.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+</a>
+
 </p>
+
 
 ---
 
