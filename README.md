@@ -1,5 +1,4 @@
-<!-- Banner -->
-![Banner](https://i.postimg.cc/XYfhs8Pd/github-banner.png)
+
 
 <h1 align="center">Hi 👋, I'm Rabiyul Islam</h1>
 <h3 align="center">Full-Stack JavaScript Developer | React • Next.js • Node.js • NestJS | Bangladesh</h3>
